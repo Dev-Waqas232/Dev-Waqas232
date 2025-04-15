@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Blockchain development**
 
-- 👨‍💻 All of my projects are available at [(Under Development)]((Under Development))
+- 👨‍💻 All of my projects are available at [Under Development](Under Development)
 
 - 💬 Ask me about **javascript, mern stack, next.js and nestjs**
 
 - 📫 How to reach me **devwaqas232@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F-l9q03nHZq-bk_5V8slMkhCEgH7lc88/view?usp=sharing](https://drive.google.com/file/d/1F-l9q03nHZq-bk_5V8slMkhCEgH7lc88/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1F-l9q03nHZq-bk_5V8slMkhCEgH7lc88/view?usp=sharing)
 
 - ⚡ Fun fact **My IDE sees me more than my friends do**
 
