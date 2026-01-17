@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on creating projects for resume, learning core programming stuff<br>👯 I’m looking to collaborate on Javascript/Typescript based projects<br>🤝 I’m looking for help with learning CS fundamentals like OS, networking, DSA and stuff <br>💬 Ask me about Javascript/Typescript, MERN, Python, Next.js and NestJS<br>⚡ Fun fact: I don't like to talk..
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqas-munir-343601244) 
 
